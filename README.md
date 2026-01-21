@@ -4,7 +4,7 @@
 
 前端项目
 
-基于 react + typescript + antd + vite 构建的前端项目，[后端地址](https://github.com/yiran15/api-server)
+基于 react + typescript + antd + vite 构建的前端项目，[后端地址](https://github.com/yiran815/api-server)
 
 ## 功能
 
